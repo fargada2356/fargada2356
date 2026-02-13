@@ -70,8 +70,9 @@ https://github.com/fargada2356/quiz-engine-cpp
 
 ## Top Languages
 
+## Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fargada2356&layout=compact&theme=dark" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fargada2356&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
