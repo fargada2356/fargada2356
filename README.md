@@ -57,13 +57,6 @@ Modular console-based quiz application built using STL containers, file handling
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fargada2356&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fargada2356&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fargada2356&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=fargada2356&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </p>
