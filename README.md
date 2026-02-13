@@ -1,8 +1,10 @@
-## Hi there 👋
-
-
-<h1 align="center">Yordan Stoyanov</h1>
+<h1 align="center">👋 Hi, I'm Yordan Stoyanov</h1>
 <h3 align="center">C++ Developer | Problem Solver | Software Engineering Student</h3>
+
+<p align="center">
+  <a href="mailto:fargada2356@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Bulgaria-blue?style=for-the-badge" />
+</p>
 
 ---
 
@@ -11,7 +13,7 @@
 I focus primarily on **C++ development**, with additional experience in Python.  
 I enjoy building systems from scratch, understanding how things work internally, and improving performance and structure.
 
-Currently improving:
+**Currently improving:**
 - Data structures & algorithms
 - Object-oriented design
 - Memory management
@@ -22,28 +24,25 @@ Currently improving:
 ## Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### Quiz Engine (C++)
+### [Quiz Engine (C++)](https://github.com/fargada2356/quiz-engine-cpp)
 
 Modular console-based quiz application built using STL containers, file handling, and structured procedural design.
 
 - Loads questions from files  
 - Tracks and stores player scores  
 - Randomizes question order  
-- Case-insensitive answer validation  
-
-🔗 **Repository:**  
-https://github.com/fargada2356/quiz-engine-cpp
+- Case-insensitive answer validation
 
 ---
 
@@ -59,27 +58,10 @@ https://github.com/fargada2356/quiz-engine-cpp
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fargada2356&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fargada2356&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fargada2356&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fargada2356&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=fargada2356&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </p>
-
----
-
-## Top Languages
-
-## Top Languages
-<p align="center">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fargada2356&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## Contact
-
-- Email: fargada2356@yahoo.com
-- Location: Bulgaria
-
-
