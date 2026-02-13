@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hi, I'm Yordan Stoyanov</h1>
 <h3 align="center">C++ Developer | Software Engineering Student</h3>
 
-<p align="center">
-  <a href="mailto:fargada2356@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Bulgaria-blue?style=for-the-badge" />
-</p>
-
 ---
 
 ## About Me
