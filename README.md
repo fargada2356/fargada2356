@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Yordan Stoyanov</h1>
-<h3 align="center">C++ Developer | Problem Solver | Software Engineering Student</h3>
+<h3 align="center">C++ Developer | Software Engineering Student</h3>
 
 <p align="center">
   <a href="mailto:fargada2356@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -28,14 +28,13 @@ I enjoy building systems from scratch, understanding how things work internally,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
 </p>
 
 ---
 
 ## Featured Project
 
-### [Quiz Engine (C++)](https://github.com/fargada2356/quiz-engine-cpp)
+### [Quiz Engine (C++)](https://github.com/fargada2356/quiz-engine)
 
 Modular console-based quiz application built using STL containers, file handling, and structured procedural design.
 
