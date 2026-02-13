@@ -58,10 +58,10 @@ Modular console-based quiz application built using STL containers, file handling
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fargada2356&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fargada2356&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fargada2356&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fargada2356&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fargada2356&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=fargada2356&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </p>
