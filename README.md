@@ -29,7 +29,7 @@ I enjoy building systems from scratch, understanding how things work internally,
 
 ## Featured Project
 
-### [Quiz Engine (C++)][(https://github.com/fargada2356/quiz-app](https://github.com/fargada2356/quiz-cpp)) 
+### [Quiz Engine (C++)][https://github.com/fargada2356/quiz-cpp]
 
 Modular console-based quiz application built using STL containers, file handling, and structured procedural design.
 
