@@ -19,29 +19,26 @@ I enjoy building systems from scratch, understanding how things work internally,
 ## Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
 </p>
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### 🚀 [Quiz Engine (C++)](https://github.com/fargada2356/quiz-cpp)
-
-Modular console-based quiz application built using STL containers, file handling, and structured procedural design.
-
-- Loads questions from files  
-- Tracks and stores player scores  
-- Randomizes question order  
-- Case-insensitive answer validation
+### 🚗 [SmartPark (C++ / Arduino)](https://github.com/fargada2356/Arduino-Parking-Radar)
+Advanced parking sensor system built with a focus on Object-Oriented Programming and hardware-software synergy.
+- **Dynamic UI:** Real-time LCD progress bar and adaptive LED brightness.
+- **Smart Audio:** Frequency-modulated buzzer with auto-silence "Comfort Mode".
+- **Precision:** Multi-sample ultrasonic filtering to eliminate signal noise.
+- **Non-blocking:** Built entirely with `millis()` for efficient multitasking.
 
 ---
 
 ## Current Focus
-
 - Writing clean and efficient C++ code
 - Understanding low-level concepts
 - Improving algorithmic thinking
