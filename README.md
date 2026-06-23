@@ -19,7 +19,7 @@ I enjoy building systems from scratch, understanding how things work internally,
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,vscode,arduino,raspberrypi,platformio" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,vscode,arduino,platformio" />
 </p>
 
 ---
