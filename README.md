@@ -5,7 +5,7 @@
 
 ## About Me
 
-I focus primarily on **C++ development**, with additional experience in Python and C.  
+I focus primarily on **C++ development**, with additional experience in C.  
 I enjoy building systems from scratch, understanding how things work internally, and improving performance and structure.
 
 **Currently improving:**
@@ -19,7 +19,7 @@ I enjoy building systems from scratch, understanding how things work internally,
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,vscode,arduino,platformio" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,vscode,arduino,platformio" />
 </p>
 
 ---
